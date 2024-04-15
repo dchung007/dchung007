@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with passion for React, Redux, Javascript, and Python. My current project right now is a clone of Airbnb, the premier home hosting site, where you can travel and always feel at home. I am utilizing a React-redux frontend and Python SQLAlchemy-Flask backend. I am currently building out multiple features for the site, some of which include Direct Messaging and a search bar. Through App Academy's rigorous 24-week, 1000+ hrs bootcamp, I have gained the multitude of skills needed to become not just an effective software engineer, but also a communicative team member who can strive to improve the company.  
+I am a software engineer with passion for React, Redux, Javascript, and Python. Through App Academy's rigorous 24-week, 1000+ hrs bootcamp, I have gained the multitude of skills needed to become not just an effective software engineer, but also a communicative team member who can strive to improve the company.  
 
 As a full stack software developer, I have enjoyed using Javascript, React, Redux, Python, Express, Flask, SQLAlchemy, Sequelize, HTML, CSS, and PostgreSQL. I am currently learning how to utilize sockets in my applications for live chats. I am always looking for ways to improve both my applications and myself as much as I can!  
 
